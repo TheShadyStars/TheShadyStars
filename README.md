@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Who cares about my bi
+Welcome to my GitHub profile
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,py" />
+</a>
 
 <!--
 **TheShadyStars/TheShadyStars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,py" />
-</a>
+
